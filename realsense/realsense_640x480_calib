@@ -1,0 +1,32 @@
+{
+  "baseline": "-50.0485",
+
+  "intrinsic_left.x.x": "0.496183",
+  "intrinsic_left.x.y": "0.79291",
+  "intrinsic_left.x.z": "0.503669",
+  "intrinsic_left.y.x": "0.499346",
+  "intrinsic_left.y.y": "-0.0593906",
+  "intrinsic_left.y.z": "0.0699232",
+  "intrinsic_left.z.x": "0.000677164",
+  "intrinsic_left.z.y": "-0.00101174",
+  "intrinsic_left.z.z": "-0.0224146",
+  "intrinsic_right.x.x": "0.496261",
+  "intrinsic_right.x.y": "0.793151",
+  "intrinsic_right.x.z": "0.503845",
+  "intrinsic_right.y.x": "0.497004",
+  "intrinsic_right.y.y": "-0.0591211",
+  "intrinsic_right.y.z": "0.0698051",
+  "intrinsic_right.z.x": "5.6467e-05",
+  "intrinsic_right.z.y": "-0.00108198",
+  "intrinsic_right.z.z": "-0.022226",
+ 
+  "rectified.2.fx": "381.084",
+  "rectified.2.fy": "381.084",
+
+  "rectified.2.height": "480",
+  "rectified.2.width": "640",
+
+  "rectified.2.ppx": "323.136",
+  "rectified.2.ppy": "239.487",
+ 
+}
